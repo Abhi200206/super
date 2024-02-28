@@ -4,6 +4,7 @@
   "description": "todo application",
   "main": "users.js",
   "scripts": {
+    "start":"node users.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
